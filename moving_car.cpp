@@ -17,7 +17,7 @@ int main() {
        cleardevice();
        line(0, 393, 800,393); //road
        car(i);
-       delay(1);
+       delay(6);
    }
    getch();
    closegraph();
